@@ -2,10 +2,9 @@
 
 This will be my new-tab/homepage for my web browsers.
 
-Works to do:
+## TO-DO
+- [ ] Define what I'll have on it.
 
-[ ] Define what I'll have on it.
+- [ ] Design.
 
-[ ] Design.
-
-[ ] Code.
+- [ ] Code.
